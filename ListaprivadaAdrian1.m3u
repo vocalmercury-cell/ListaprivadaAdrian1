@@ -1,0 +1,393 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78KfOGOqXvTja8lRFwgjmkprRmI.jpg" group-title="PELICULAS DE COMEDIAS", Un hipster en la España vacía (2024)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/99130.mkv
+
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/LALIGA_RGB_h_monocromatico_negativo/LALIGA_RGB_h_monocromatico_negativo.png" group-title="EVENTOS DEL DIA", FUTBOL DE ESPAÑA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/14783
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Bein-sports-N.png" group-title="DEPORTES ESPAÑA", BEIN SPORT SP
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12051
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", CANAL EURO SPORTS HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12497
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-EUROSPORT.png" group-title="DEPORTES ESPAÑA", EUROSPORT 2
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/14263
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn La lig@
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11910
+
+#EXTINF:-1 tvg-logo="https://tvalcolea.com/wp-content/uploads/2018/03/iberalia.jpg" group-title="DEPORTES ESPAÑA", IBERALIA TV
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12113
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-CAZA-Y-PESCA.png" group-title="DEPORTES ESPAÑA", CAZA Y PESCA HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11909
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-DAZN.png" group-title="DEPORTES ESPAÑA", Dazn Lalig@ 2 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12498
+
+#EXTINF:-1 tvg-logo="https://www.newdelhitimes.com/wp-content/uploads/2016/09/La_Liga_logotip.jpg" group-title="DEPORTES ESPAÑA", ESP LIG@ HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12050
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/aebosn1641133426.png" group-title="DEPORTES ESPAÑA", Fox Deportes
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12116
+
+#EXTINF:-1 tvg-logo="https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png" group-title="DEPORTES ESPAÑA", MOVISTAR DEPORTES
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12049
+
+#EXTINF:-1 tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="DEPORTES ESPAÑA", MOVISTAR F1
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12048
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuVXSkg-Wvk4MuZZDVby4AUdKHgYWBfC0PVmwjWAxdGlQUohl0" group-title="DEPORTES ESPAÑA", MOVISTAR GOLF
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12047
+
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/286-2863527_movistar-formula-1-logo-hd-png-download.png" group-title="DEPORTES ESPAÑA", Movistar Deportes 2 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/22347
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA", TVE 24H
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/17895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1000px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", LA SEXTA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/18003
+
+#EXTINF:-1 tvg-logo="http://www.brandemia.org/sites/default/files/inline/images/logo_antena3_antes.jpg" group-title="ESPAÑA", ANTENA 3 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11826
+
+#EXTINF:-1 tvg-logo="https://hispanicprwire.com/wp-content/uploads/2017/01/52095_1_51635.jpg" group-title="ESPAÑA", Antena 3 Int HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20878
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="ESPAÑA", TVE LA 1 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11907
+
+#EXTINF:-1 tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/la-2-spanish-tv-channel-wikipedia-75321.png" group-title="ESPAÑA", TVE LA 2 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12107
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Calle13_logo.svg/856px-Calle13_logo.svg.png" group-title="ESPAÑA", CALLE 13
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/15003
+
+#EXTINF:-1 tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="ESPAÑA", DMAX
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/38849
+
+#EXTINF:-1 tvg-logo="https://programacion.tv/images/canal-cocina.png" group-title="ESPAÑA", CANAL COCINA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12114
+
+#EXTINF:-1 tvg-logo="data:image/jpeg;base64,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" group-title="ESPAÑA", COCINA TV
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12112
+
+#EXTINF:-1 tvg-logo="https://elcorreoweb.es/binrepository/canal-sur_20401336_20200327184036.jpg" group-title="ESPAÑA", CANAL SUR
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12100
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/e5008e/canal_historia/450_1000.gif" group-title="ESPAÑA", HISTORIA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12111
+
+#EXTINF:-1 tvg-logo="https://plazatoros.tv/assets-new/images/features/feature1.png" group-title="ESPAÑA", Canal Toros tv
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12101
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Cuatro_HD2012.png" group-title="ESPAÑA", Cuatro HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/14414
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Vamos.svg" group-title="DEPORTES ESPAÑA", MOVISTAR VAMOS
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12102
+
+#EXTINF:-1 tvg-logo="http://afindemes.republica.com/files/2011/03/ciclo_de_documentales_gratis_en_madrid-450x265.jpg" group-title="ESPAÑA", ODISEA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12499
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6c/9e/c0/6c9ec01d4a9a69672540d0dc29551f22.jpg" group-title="ESPAÑA", NAT GEO WILD HD ES
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/23030
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nova_Television_Logo.svg/1280px-Nova_Television_Logo.svg.png" group-title="ESPAÑA", NOVA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/38383
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/800px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA", FDF HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/64118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ESPAÑA", De Casa
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/144323
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdlrr5oLMGjNXMiUUYVuPhT04H.jpg" group-title="CINE ARGENTINO/URUGUAYO", Made in Argentina (1987)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91353.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="PELICULAS DE DRAMA", Argentina, 1985 (2022)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/121414.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" group-title="CINE ARGENTINO/URUGUAYO", Argentina, 1985 (2022)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/76819.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqcn7wiExfUBDT0L5xMCOngepn5.jpg" group-title="CONCIERTOS", Roger Waters Live In Argentina (Ing-2023)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/137969.mkv
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11866
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/28071
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE INTERNACIONAL SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11858
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE SD 1
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11840
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-tv-publica.png" group-title="ARGENTINA", TV PUBLICA SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/14415
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11863
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11859
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/2560px-TN_todo_noticias_logo.svg.png" group-title="ARGENTINA", TN SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11839
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-LN+.png" group-title="ARGENTINA", LN+ SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11878
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11862
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", Canal 13 Internacional
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12443
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-A24.png" group-title="ARGENTINA", A 24 SD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11865
+
+#EXTINF:-1 tvg-logo="http://television.com.ar/wp-content/uploads/2010/07/ARGENTINISIMA-.jpg" group-title="ARGENTINA", ARGENTINISIMA
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11864
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-C5N.png" group-title="ARGENTINA", C5N HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11902
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="ARGENTINA", AMERICA HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11904
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-nueve.png" group-title="ARGENTINA", CANAL 9 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11899
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-el-trece.png" group-title="ARGENTINA", CANAL 13 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11901
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-cronica.png" group-title="ARGENTINA", CRONICA TV HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11894
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-canal-26.png" group-title="ARGENTINA", CANAL 26 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11900
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-telefe.png" group-title="ARGENTINA", TELEFE HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11879
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN SUR
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20324
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 SUR_
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20325
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 SUR
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20326
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-4.png" group-title="DEPORTES ARGENTINA HD", ESPN 4 HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/21457
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-1.png" group-title="DEPORTES ARGENTINA HD", ESPN ARG HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/12755
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-2.png" group-title="DEPORTES ARGENTINA HD", ESPN 2 HD ARG
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11996
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-ESPN-3.png" group-title="DEPORTES ARGENTINA HD", ESPN 3 HD ARG
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11915
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUM ARG
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/14637
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS HD SUR
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/11702
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-2.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 2 SUR HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20328
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-Fox-sports-3.png" group-title="DEPORTES ARGENTINA HD", FOX SPORTS 3 SUR HD
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20329
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Torneos.png/220px-Torneos.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS 2
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/20327
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos/-TYC-sports.png" group-title="DEPORTES ARGENTINA HD", TYC SPORTS INTERNACIONAL
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/16278
+
+#EXTINF:-1 tvg-logo="http://descargas.podzone.net/logos2/-ESPN-PREMIUM.png" group-title="DEPORTES ARGENTINA HD", ESPN PREMIUN
+http://planettvweb.com:8091/RichardDeSouza/DeSouza200/16453
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iusTlaCKAv6JQmPXdmHyRTSLeae.jpg" group-title="CINE ARGENTINO/URUGUAYO", Puan (2023)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/100389.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbLGA9OKgzsMkvXYGlJX8jwiUtm.jpg" group-title="CINE ARGENTINO/URUGUAYO", En la puta vida (2001)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91173.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEoR6wJA6uioAu8Pb1uU2UHLPc.jpg" group-title="CINE ARGENTINO/URUGUAYO", Empieza el baile (2023)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/76629.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3LTgQf2NKmLiDAPUaMfbZ8yOxjN.jpg" group-title="CINE ARGENTINO/URUGUAYO", El retiro (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91347.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K1S94gCtzRrhm9PtJvmqmxQrXG.jpg" group-title="CINE ARGENTINO/URUGUAYO", El verso (1996)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91348.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yO1lrdMasJuI4avKBukddGP0dCB.jpg" group-title="CINE ARGENTINO/URUGUAYO", Franklin, historia de un billete (2022)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91349.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj6OeVMhquRV64gIjxbyoHgaSCL.jpg" group-title="CINE ARGENTINO/URUGUAYO", La Patagonia rebelde (1974)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91350.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rCk5UysWXmz59lD9rX0jnmjCzGI.jpg" group-title="CINE ARGENTINO/URUGUAYO", La Suerte en tus Manos (2012)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91351.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdlrr5oLMGjNXMiUUYVuPhT04H.jpg" group-title="CINE ARGENTINO/URUGUAYO", Made in Argentina (1987)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91353.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dKlNsDFGbad59BxSGmFrmvNJDJ6.jpg" group-title="CINE ARGENTINO/URUGUAYO", Motivos Para No Enamorarse (2009)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91354.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxweSXSk8Pj3rftGZTy10WRUp2E.jpg" group-title="CINE ARGENTINO/URUGUAYO", Un día en el paraíso (2003)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91355.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWEeHq1zcOJsUkjrdZHbhAp4jYg.jpg" group-title="CINE ARGENTINO/URUGUAYO", Whisky Romeo Zulú (2005)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91888.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZqmG0FFPZeNYQGZ9385EqYSD1y.jpg" group-title="CINE ARGENTINO/URUGUAYO", Caballos salvajes (1995)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91830.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0r5mYcglrJ0GM4Gsb4liCZ3Fwr.jpg" group-title="CINE ARGENTINO/URUGUAYO", Cenizas del paraíso (1997)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/91831.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnGZ6VPB7T923oLDGChcPdzmZxk.jpg" group-title="CINE ARGENTINO/URUGUAYO", Corazón de león (2013)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/131616.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSwCLbElGgz7HzWEHwnSfQtP2OC.jpg" group-title="CINE ARGENTINO/URUGUAYO", Corazón loco (2020)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/131617.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5oMn99BVp9IJruztEwpKgvqA2h.jpg" group-title="CINE ARGENTINO/URUGUAYO", La odisea de los giles (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/131688.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ihpffUjsswT20JhB2i0NlgQLTbF.jpg" group-title="CINE ARGENTINO/URUGUAYO", Ataúd blanco: El juego diabólico (2016)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118299.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5FzYKAvL4GcSzLUN9PfoN65wPDe.jpg" group-title="CINE ARGENTINO/URUGUAYO", El día que me amen (2003)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118154.avi
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sOfZSQEQ1SVQ7jBB5m979uagpkC.jpg" group-title="CINE ARGENTINO/URUGUAYO", Arrebato (2014)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118131.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPbHAiCFtjCk8fEBwZ7EirsliXm.jpg" group-title="CINE ARGENTINO/URUGUAYO", Bandido (2021)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118132.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBMA4wyg59Jox7gXLOLsrpRjXJR.jpg" group-title="CINE ARGENTINO/URUGUAYO", El Santo (2023)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118133.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BcRdH1O7Y6ic25SxvLt2DLmUn0.jpg" group-title="CINE ARGENTINO/URUGUAYO", Eva no duerme (2015)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118134.avi
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxtvrY1OlFuqoyUPArRBV73Oafd.jpg" group-title="CINE ARGENTINO/URUGUAYO", La sombra del gallo (2020)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118135.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw5xSP6II3t50xpXiIRLUCXAPX6.jpg" group-title="CINE ARGENTINO/URUGUAYO", La forma del bosque (2021)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118136.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7z1hbNEeS4iktlPr80tJifIKkF.jpg" group-title="CINE ARGENTINO/URUGUAYO", La mosca en la ceniza (2010)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118137.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yxDSTVOX8g0XYcllKgNVyzSWY90.jpg" group-title="CINE ARGENTINO/URUGUAYO", No te olvides de mí (2016)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118138.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qD5VVr38Tqnq0OSAwQjoNJACZIx.jpg" group-title="CINE ARGENTINO/URUGUAYO", Zanahoria (2014)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/118140.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVzC42W7RLWJIOXxRJPgYDTovKF.jpg" group-title="CINE ARGENTINO/URUGUAYO", Magallanes (2015)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/117926.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOiBm1X2Fr4MfUC9HbDofQnvfis.jpg" group-title="CINE ARGENTINO/URUGUAYO", El rocío (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/117927.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wNGmx7UYigC7ccij0sZuAfhCUW8.jpg" group-title="CINE ARGENTINO/URUGUAYO", El futuro que viene (2017)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/117928.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq5kQl8VjBO3zBewhPtXWNK2S4E.jpg" group-title="CINE ARGENTINO/URUGUAYO", Traslasierra (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/117929.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOIjFRRaIQ5brDyys7GfUWr0hFz.jpg" group-title="CINE ARGENTINO/URUGUAYO", El castigo (2022)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/116884.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ml8oOm5BzmgmdVjxViS1djUMFj0.jpg" group-title="CINE ARGENTINO/URUGUAYO", Yo, adolescente (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/116659.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tAlKPNDN7r95kwbDJ2N2cOcO75.jpg" group-title="CINE ARGENTINO/URUGUAYO", Atrevidas (2018)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/116195.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYrXYoKg0nE2GtzH8fa74FYfjwv.jpg" group-title="CINE ARGENTINO/URUGUAYO", Hombre mirando al sudeste (1987)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/112633.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwb8gX9fTZeQG4xYlomdFVUWDdT.jpg" group-title="CINE ARGENTINO/URUGUAYO", Luna en Leo (2013)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/108441.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxSXKBhBNXphzdOl1OmieSGjv3h.jpg" group-title="CINE ARGENTINO/URUGUAYO", Desertor (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/107458.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqPanbVEj17mDvT7klQqoP4mfw2.jpg" group-title="CINE ARGENTINO/URUGUAYO", Amor de película (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/106696.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1MiMQsE90f5yCbXUsaRuFae6mqv.jpg" group-title="CINE ARGENTINO/URUGUAYO", Yo, mi mujer y mi mujer muerta (2019)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/106697.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg" group-title="CINE ARGENTINO/URUGUAYO", Jaque Mate (2024)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/98532.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CuPUYdqG8YgzSwGWHiSCpXBx4F.jpg" group-title="CINE ARGENTINO/URUGUAYO", Infancia clandestina (2012)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/101187.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pSS8WxGQsKNsMOrMuk07WBVuaL9.jpg" group-title="CINE ARGENTINO/URUGUAYO", Cleopatra (2003)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/99755.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg" group-title="CINE ARGENTINO/URUGUAYO", Granizo (2022)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/99045.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pNID1IWgWqEX1WF1X2N2wKb1le.jpg" group-title="CINE ARGENTINO/URUGUAYO", El cuaderno de Tomy (2020)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/98841.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfcmzd3keLD7p3jwz5rVxspxw7n.jpg" group-title="CINE ARGENTINO/URUGUAYO", Fantasma de Buenos Aires (2009)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/98703.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/210/174/21017460_20130703204337632.jpg" group-title="CINE ARGENTINO/URUGUAYO", Puerta de Hierro, el exilio de Perón (2013)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/98543.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tJNbJMpVBNXHnfFrNtot19wEYS.jpg" group-title="CINE ARGENTINO/URUGUAYO", El espejo de los otros (2015)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/98316.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img2.acsta.net/pictures/210/419/21041940_20130920105137464.jpg" group-title="CINE ARGENTINO/URUGUAYO", Matrimonio (2013)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/98317.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhScsgRN1kkN3qCiBeKMnv83RUw.jpg" group-title="CINE ARGENTINO/URUGUAYO", Fermín, Glorias del Tango (2014)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/96708.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg" group-title="CINE ARGENTINO/URUGUAYO", Casi muerta (2023)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/88060.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/weRetbMsMr0NjTHYCuKWPcWgwCZ.jpg" group-title="CINE ARGENTINO/URUGUAYO", Gilda: no me arrepiento de este amor (2016)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/96604.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg" group-title="CINE ARGENTINO/URUGUAYO", Elijo creer (2023)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/96322.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhE2NrNxUHNXNCcLO95CO1QgvXy.jpg" group-title="CINE ARGENTINO/URUGUAYO", Subí que te llevo (1980)
+http://planettvweb.com:8091/movie/RichardDeSouza/DeSouza200/96135.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10iHPf96OKcQkbf8iXhnhYbzY4Y.jpg" group-title="CINE ARGENTINO/URUGUAYO", El deseo de vivir (1973)
+http://plane
+
